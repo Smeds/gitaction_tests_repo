@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=64", "setuptools-scm>=8"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gitaction-tests-repo"
+dynamic = ["version"]
+description = "A simple hello world package"
+requires-python = ">=3.10"
+
+[tool.setuptools_scm]
