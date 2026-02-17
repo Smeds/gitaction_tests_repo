@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/Smeds/gitaction_tests_repo/compare/v1.2.0...v1.3.0) (2026-02-17)
+
+
+### Features
+
+* make it possible to upload new release to pypi test ([caf7c94](https://github.com/Smeds/gitaction_tests_repo/commit/caf7c9437ffa18443f771181f2be6130e39553ae))
+* make it possible to upload new release to pypi test ([e1e35a1](https://github.com/Smeds/gitaction_tests_repo/commit/e1e35a19d38146b39aef35946e175babdce7d5dd))
+
 ## [1.2.0](https://github.com/Smeds/gitaction_tests_repo/compare/v1.1.0...v1.2.0) (2026-02-17)
 
 
