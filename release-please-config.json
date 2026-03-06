@@ -1,0 +1,11 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "simple",
+      "package-name": "gtr",
+      "bump-minor-pre-major": true,
+      "include-v-in-tag": true
+    }
+  },
+  "bootstrap-sha": "b74d0b0d628ed711b38eb1ee93f3b43380cf9367"
+}
