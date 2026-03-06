@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/Smeds/gitaction_tests_repo/compare/v1.4.0...v1.5.0) (2026-03-06)
+
+
+### Features
+
+* change release type ([6cf7cbc](https://github.com/Smeds/gitaction_tests_repo/commit/6cf7cbc1e2e1d4fab4c207b379f7d166635b558c))
+
 ## [1.4.0](https://github.com/Smeds/gitaction_tests_repo/compare/v1.3.0...v1.4.0) (2026-03-06)
 
 
