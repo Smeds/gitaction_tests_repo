@@ -29,3 +29,5 @@ Option 1: GitHub App (Recommended)
         GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
       run: npx semantic-release
 
+# Please release 
+Setting up release please config
