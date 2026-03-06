@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/Smeds/gitaction_tests_repo/compare/v1.3.0...v1.4.0) (2026-03-06)
+
+
+### Features
+
+* please release config ([b03232d](https://github.com/Smeds/gitaction_tests_repo/commit/b03232d4f7bf1297b7ce9ca8d429bc126080c5e2))
+
 ## [1.3.0](https://github.com/Smeds/gitaction_tests_repo/compare/v1.2.0...v1.3.0) (2026-02-17)
 
 
